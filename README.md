@@ -10,10 +10,15 @@ Booked - Page - The page where the admin can confirm the guest bookings.
 Guest Side Home Page- The landing page of the guest when they browse the system. 
 Rooms  Page - The list of rooms that as available accordingly to the selected dates of the guest. About Page - The page where the hotel about content is being displayed.
 
-#How to Run
+# How-to-Run
 Download the source code and extract the zip file.
+
 Download or set up any local web server that runs PHP script.
+
 Open the web-server database and create a new database name it hotel_db.
+
 Import the SQL file located in the database folder of the source code.
+
 Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
+
 Open a web browser and browse the project. e.g [ http://localhost/hotel-using-php ] and for the admin side [ http://localhost/hotel-using-php/admin ]
